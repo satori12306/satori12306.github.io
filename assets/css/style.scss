@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+/* 页面整体宽度 */
+.wrapper {
+  max-width: 800px;
+}
+
+/* 标题风格 */
+h1, h2, h3 {
+  font-weight: 500;
+}
+
+/* 正文 */
+body {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* 链接风格 */
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
